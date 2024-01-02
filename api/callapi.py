@@ -1,5 +1,5 @@
 import requests
-from exceptions import APIException
+from exception.exceptions import APIException
 
 
 
